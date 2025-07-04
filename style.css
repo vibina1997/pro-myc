@@ -1,0 +1,63 @@
+.nav-item
+{
+    padding: 10px 10px;
+    text-align: center;
+    
+
+}
+.banner-img{
+    height: 500px;
+    object-fit: cover;
+}
+.carousel-caption {
+    padding: 20px;
+color: aliceblue;
+}
+.white-box{
+    background-color: white;
+    padding: 40px 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0, 0, 0,05);
+    text-align: center;
+}
+.white-box h2{
+    font-weight: bold;
+}
+.white-box p{
+    max-width: 800px;
+    margin: auto;
+    font-size: 16px;
+    color: #333;
+}
+.img-box img{ width: 100%;
+    height: 252px;
+    object-fit: cover;
+
+}
+.tex-box{
+    background-color: black;
+    color:white;
+    padding: 30px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.tex-box h3{
+font-weight: 60px;
+margin-top: 15px;
+}
+.mnabar{
+    text-decoration: none;
+    
+}
+.mainbar{
+    background-image: url(img/bg\ img.jpg);
+    height: 500px;px;
+    object-fit: cover;
+
+}
+.navlogo{
+    color: white;
+}
