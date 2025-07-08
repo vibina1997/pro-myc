@@ -2,11 +2,21 @@
 {
     padding: 10px 10px;
     text-align: center;
-    
+            
+.mainhead{
+    font-family: permaner-marker;
+}
+
+
 
 }
-.banner-img{
-    height: 500px;
+.mainimage{
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
     object-fit: cover;
 }
 .carousel-caption {
@@ -54,10 +64,54 @@ margin-top: 15px;
 }
 .mainbar{
     background-image: url(img/bg\ img.jpg);
-    height: 500px;px;
+    height: 500px;
     object-fit: cover;
 
 }
 .navlogo{
     color: white;
 }
+.prosection{background-color: black;
+color: white;
+padding: 10px;
+}
+.pro-title{
+
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+.protext{
+    font-size: 12ps;
+    opacity: 0,9;
+    padding:30px;
+height: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.promycimg{
+    width: 600px;
+    border-radius: 8px;
+    height: 300px;
+    object-fit: cover;
+}
+.mainbaar2{
+    background-image: url(img/color.png);
+    height: 500px;
+    object-fit: cover;
+}
+.contaimg{
+    width: 600px;
+     border-radius: 8px;
+    height: 300px;
+    object-fit: cover;
+}
+.mainco {
+    background-color: black;
+color: white;
+padding: 10px;
+}
+.textsc h4
+
+
