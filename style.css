@@ -5,6 +5,7 @@
             
 .mainhead{
     font-family: permaner-marker;
+    
 }
 
 
@@ -40,15 +41,16 @@ color: aliceblue;
     color: #333;
 }
 .img-box img{ width: 100%;
-    height: 252px;
+    height: 254px;
     object-fit: cover;
 
 }
 .tex-box{
     background-color: black;
     color:white;
+    width: 100%;
     padding: 30px;
-    height: 100%;
+    height: 300%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -62,15 +64,15 @@ margin-top: 15px;
     text-decoration: none;
     
 }
-.mainbar{
-    background-image: url(img/bg\ img.jpg);
-    height: 500px;
-    object-fit: cover;
 
-}
+
+
 .navlogo{
     color: white;
 }
+
+
+
 .prosection{background-color: black;
 color: white;
 padding: 10px;
@@ -112,6 +114,21 @@ justify-content: center;
 color: white;
 padding: 10px;
 }
-.textsc h4
+.bagimg{ background-image: url(img/bg\ img.jpg);}
+
+.bgggimg{
+    background-image: url(img/color.png);
+}
+
+.mainhead {
+color: black;
+font-style:Permanet-Marker ;
+text-align: center;
+justify-content: center;}
+ 
+.head{color: black;}
+
+
+
 
 
