@@ -175,10 +175,7 @@
 .container{
     overflow: hidden;
 }
-.card7{
-    width: 500px;
-    height: 300px;
-}
+
 .wcard{
     width: 100%;
     
@@ -186,7 +183,18 @@
 .section9{
     background-color: #F8F2E7;
 }
+   .card-img-top.fixed-img {
+    object-fit: cover;
+    height: 200px;
+    width: 100%;
+  }
 
+  .card {
+    min-height: 100%;
+  }
 
+  .card-body {
+    flex-grow: 1;
+  }
 
 
