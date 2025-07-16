@@ -189,13 +189,9 @@
     width: 100%;
   }
 
-  .card {
-    min-height: 100%;
-  }
+  
 
-  .card-body {
-    flex-grow: 1;
-  }
+  
 .cardhover:hover{
     background-color: rgb(255, 244, 231);
     transform:translateY(4px)
@@ -215,8 +211,10 @@
 ::-webkit-scrollbar-thumb {
   background: #0b0b0b;
 }
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #5 
-
+.imglogo{
+    width: 150px;
+    height: 20px;
+    margin-left: 50px;
+}
+.footerpara{margin-left: 50px;}
+.social{text-decoration: none;}
