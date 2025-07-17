@@ -214,7 +214,15 @@
 .imglogo{
     width: 150px;
     height: 20px;
-    margin-left: 50px;
+    background-color: #0b0b0b;
 }
-.footerpara{margin-left: 50px;}
-.social{text-decoration: none;}
+.social
+{
+    text-decoration: none;
+}
+.trend{
+    
+}
+.coorfooter{
+    background-color: #0b0b0b;
+}
